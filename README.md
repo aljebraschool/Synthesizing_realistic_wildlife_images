@@ -32,7 +32,7 @@ This project addresses the critical issue of data scarcity in wildlife conservat
 
 ## Contributors
 
-Ridwan Ibidunni, Auwal Ibrahim, Obi Chinyere Mary, Samson Oguntuwase, Dominion Akinrotimi, Rishabh Shrivastava, Niket Kumar, Eguagie-Suyi Precious, Chinazom Enukoha, Adeleke Adekola Emmanuel, Grace Chinonye Kenneth-Obasi, Akinwunmi Toluwani Adebayo, Benjamin Muoka, Ade Adesipo, Lolu Zaccheus, Muhammad Asif, Abdulkabir Badru
+Ridwan Ibidunni, Auwal Ibrahim, Obi Chinyere Mary, Samson Oguntuwase, Dominion Akinrotimi, Rishabh Shrivastava, Niket Kumar, Eguagie-Suyi Precious, Chinazom Enukoha, Adeleke Adekola Emmanuel, Akinwunmi Toluwani Adebayo, Benjamin Muoka, Ade Adesipo, Lolu Zaccheus, Muhammad Asif, Abdulkabir Badru
 
 ## References
 
