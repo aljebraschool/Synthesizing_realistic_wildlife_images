@@ -1,5 +1,3 @@
-Certainly! I'll create a README file for your repository based on the content you've provided. Here's a draft of the README:
-
 # Synthesizing Realistic Wildlife Images for Conservation and Education
 
 ## Overview
