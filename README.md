@@ -22,6 +22,7 @@ This project addresses the critical issue of data scarcity in wildlife conservat
 - Successfully generated realistic images of trained species
 - Demonstrated generalization to untrained species
 - Potential applications in conservation education and research visualization
+- Access the research work [here](10.13140/RG.2.2.22698.63686)
 
 ## Future Work
 
